@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name SOT95P280X145-5N)(type KiCad)(uri ${KIPRJMOD}/SOT95P280X145-5N)(options "")(descr ""))
+  (lib (name PJ-320B)(type KiCad)(uri ${KIPRJMOD}/PJ-320B)(options "")(descr ""))
+  (lib (name 3296-W)(type KiCad)(uri ${KIPRJMOD}/3296-W)(options "")(descr ""))
+)

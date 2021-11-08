@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name audio_mixer)(type Legacy)(uri ${KIPRJMOD}/audio_mixer.lib)(options "")(descr ""))
+  (lib (name PJ-320B)(type Legacy)(uri ${KIPRJMOD}/PJ-320B/PJ-320B.lib)(options "")(descr ""))
+  (lib (name 3296-W)(type Legacy)(uri ${KIPRJMOD}/3296-W/3296-W.lib)(options "")(descr ""))
+)
